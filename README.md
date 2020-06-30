@@ -1,2 +1,1 @@
-# budget_tracker
-Monthly Budget Tracker App
+# Budget Tracker
